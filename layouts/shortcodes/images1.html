@@ -1,0 +1,25 @@
+
+<h3 class="heading_2">{{.Page.Params.description}}</h3>
+
+
+
+<!--{{$root := .Page.Params.folder}}
+<h1>{{$root}}</h1>
+-->
+<div class="row">
+    {{ with .Page.Params.pics}}
+        {{range .}}
+        <div class="col-md-6">
+          <div class="thumbnail">
+            <a href="{{.img}}" data-title="{{.title}}" data-lightbox="Sample">
+                <img src = "{{.img}}" style = "width:100%;">
+                <div class="caption">
+                    <p class="small_txt">{{.title}}</p>
+                </div> 
+            </a>
+          </div>
+        </div>
+    {{end}}
+   {{end}}
+   </div>
+   

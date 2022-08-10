@@ -1,0 +1,19 @@
+<nav class="sidebar-nav  side-border">
+    <ul class="nav flex-column lift">
+
+        {{ $title:= .Title }}
+        {{ range .Site.Menus.main }}
+            <li class="navrow">
+                <a class = "nav-link"  href="{{ .URL }}"  {{if eq .Title $title}}id="uline" {{end}}>{{.Title}}</a>
+            </li>
+        {{ end }}
+
+        <li class="navrow gals">Projects</li>
+       
+        {{ range .Site.Menus.projects }}
+            <li class="navrow">
+                <a class = "nav-link"  href="{{ .URL }}"  {{if eq .Title $title}}id="uline" {{end}}>{{.Title}}</a>
+            </li>
+        {{ end }}
+    </ul>
+</nav>

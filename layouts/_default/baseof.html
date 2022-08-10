@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html class="no-js">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Friends of East Cowes DEV</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/lightbox.css">
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="parent">
+      <img id="banner"  class="img-fluid" src="/images/{{ .Params.Image}}" alt="">
+    </div>
+
+          <hr>
+          <div class="row">
+              <div class="col-sm-3">
+                  {{ partial "navs/sidenav.html" .}}
+              </div>
+
+              <div class="col-sm-9 para">
+                {{block "Test" .}}
+                {{end}}
+              </div>
+          </div>
+      </div>
+
+  <!-- jQuery library -->
+
+  <script src="/js/bootstrap.min.js"></script>
+  <script src="/js/popper.min.js"></script>
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/lightbox.js"></script>
+ 
+
+</body>
+
+</html>

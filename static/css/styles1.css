@@ -1,0 +1,168 @@
+
+
+body {background-color: #424141 !important;}
+
+/*
+.pill-1 a {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+*/
+#banner { width: 100%; margin-top: 20px;}
+ul{ padding-top: 20px;}
+
+/* classes */
+.margin-top{margin-top: 8px;}
+.padding-8{padding: 8px;}
+
+.heading_1{
+    color:wheat;
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:20px;
+}
+.heading_2{
+    color:wheat;
+    text-align:left;
+    padding-top:10px;
+    padding-bottom:20px;
+}
+.small_txt{font-size:small;}
+
+.heading_3{
+    color:#99CCFF;
+}
+
+#uline{
+    background-color: #99CCFF;
+    color:#2B135C;
+}
+
+
+
+.navrow{font: 1.2em sans-serif; padding-top: 10px;text-align: center;}
+/* a.nav-link{color: rgb(33, 116, 211);} */
+a.nav-link{color: white; font-size:small;}
+.text-white{color: white;}
+/* .navrow>a{color:rgb(110, 16, 16);padding-top: 10px;} */
+
+/* a:hover{ background-color: rgb(189, 214, 1);} */
+a:hover{ background-color:rgb(164, 197, 216);}
+.leftnav{font: bold 12px Georgia, serif; text-align: center;}
+.sidebar-border { border-style: solid; border-width: 1px; padding-bottom:14px;} */
+.flex-container{
+    display: flex;
+    flex-flow: row wrap;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.sidebar-nav{
+    padding-top: 20px;
+}
+hr {
+    background-color: black;
+}
+
+div > p{
+  color: rgb(233, 243, 243)
+}
+div.stats{color:white;}
+/* div.stats>
+div>h4{color:black;} */
+
+
+/* video resize */
+.video-container {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+.thanx{text-align: center;}
+
+/* body {background-color: grey } */
+/* body {background-color: #808080;} */
+
+p {color:white;}
+
+
+/* Galleries */
+.gals{text-align: center;
+    color:rgb(221, 197, 63);
+    text-decoration: underline;
+    margin-top: 4px;
+    border-top: 1px solid #99CCFF;
+
+}
+.side-border{border: 1px solid white;}
+.lift{margin-top: -40px;}
+
+.picin {
+    float: left;
+    padding: 8px;
+    border: 1px solid 
+    #aaaaaa;
+    margin-right: 12px;
+    margin-bottom: 2px;
+}
+
+
+hr.new4 {
+    border: 1px solid red;
+  }
+h3 {color: wheat;}
+h5 {color: rgb(179, 216, 245)!important;}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: rgb(247, 250, 251);
+    background-color: #07495c;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+/*  */
+
+
+
+/*  */
+
+/*  */
+/* Sub-menu for projects navigation bar */
+
