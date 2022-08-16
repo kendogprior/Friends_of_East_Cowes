@@ -1,7 +1,7 @@
 ---
 title: "Kingston Cemetery Database"
 description: "Burials"
-draft: true
+draft: false
 menu: "projects"
 weight: 2
 folder: "project1"

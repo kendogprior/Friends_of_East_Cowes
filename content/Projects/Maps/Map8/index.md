@@ -1,6 +1,6 @@
 ---
 title: "F"
-draft: true
+draft: false
 menu: ""
 weight: 3
 folder: "project2"

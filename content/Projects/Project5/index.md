@@ -1,7 +1,7 @@
 ---
 title: "East Cowes Walks"
 date: 2022-06-29T11:10:37+01:00
-draft: true
+draft: false
 menu: "projects"
 weight: 7
 folder: "project5"

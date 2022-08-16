@@ -1,6 +1,6 @@
 ---
 title: "John Nash Railings"
-draft: true
+draft: false
 menu: "projects"
 weight: 5
 folder: "project3"

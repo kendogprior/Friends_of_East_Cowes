@@ -1,6 +1,6 @@
 ---
 title: "Church Gates"
-draft: true
+draft: false
 menu: "projects"
 weight: 4
 folder: "project2"
