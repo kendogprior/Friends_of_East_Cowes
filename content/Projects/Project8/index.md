@@ -7,8 +7,14 @@ weight: 10
 folder: "project8"
 image: "FROG.png"
 pics:
-
-  
+  - img: "st james gates.jpeg"
+    title:  "Job done"
+  - img: "john nash tomb.jpeg"
+    title: "Good as new"
+  - img: "Flowers_proj.jpg"
+    title: "Street flowers"
+  - img: "shedde lamp.JPG"
+    title: "Shedden Fountain"
 ---
 
 {{< header3 heading = "Other Projects" >}}

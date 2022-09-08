@@ -1,7 +1,7 @@
 ---
 title: "John Nash Railings"
 draft: false
-menu: "projects"
+menu: ""
 weight: 5
 folder: "project3"
 image: "FROG.png"

@@ -7,7 +7,8 @@ weight: 9
 folder: "project7"
 image: "FROG.png"
 pics:
-
+  - img: "BookSigning.png"
+    title: "Book signing"  
   
 ---
 

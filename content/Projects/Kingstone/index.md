@@ -13,7 +13,7 @@ image: "FROG.png"
 
 {{< header3 heading = "Kingstone Cemetery Database" >}}
 
-If you are visiting this page for the first time, please read the information on this page before using the links to the database and burial location maps.
+If you are visiting this page for the first time, please read the information on this page before using the links to the database and burial location maps shown below.
 
 {{< burials_menu >}}
 {{< h_rule >}}

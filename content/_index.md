@@ -6,7 +6,15 @@ weight: 1
 isHome: true
 image: "MainImage.png"
 heading: "Friends of East Cowes"
+pics:
+  - img: "Lodge 1-1.JPG"
+    title:  "The Lodge"
+  - img: "overgrown cemetery.JPG"
+    title: "Overgrown cemetery"
+  - img: "central circle.JPG"
+    title: "Central Circle"
 ---
+
 
 
 
@@ -39,6 +47,8 @@ of Maria Amberstone Chiverton, aged 52, who was interred on 10th January 1877.
 Interments in the extension across Kingston Road began in 1954,and most burials
 now take place there.
 
+{{< images1 >}}
+
 THE CEMETERY PROJECT:
 
 The Friends of East Cowes Cemetery was set up as a community organisation in
@@ -61,6 +71,7 @@ Rangers helped in putting up bird and bat boxes and local schoolchildren plantef
 bulbs along the central avenue. Angie Mathews helped to scrub down the dingylooking
 Air Raid memorial.The bronze panel on a wooden post near the gates bears
 an inscription provided by Glyn Roberts.
+
 
 Ken Wheeler created an interesting booklet about some of the people buried in the
 cemetery and some of its flora and fauna.

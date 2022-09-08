@@ -1,0 +1,5 @@
+{{ with .Page.Params.links }}
+    {{ range .}}
+        <a href = "{{ .link }}" style = "color:#e4ff99ef">{{.title}}</a>
+    {{ end }}
+{{ end }}

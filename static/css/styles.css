@@ -4,6 +4,7 @@ h2, h3, h5, h6 {color:white;}
 
 #special { margin-left: 12px;}
 
+body {adding-bottom: 100px;}
 
 ul{ padding-top: 20px;}
 
@@ -30,6 +31,11 @@ ul{ padding-top: 20px;}
 .heading_3{
     color:#99CCFF;
     font-size: 2.4rem;
+}
+
+.links {
+    color:#e4ff99ef;
+    font-size: 1.8rem;
 }
 
 .bg1 { background-color:rgb(106, 102, 95)}
@@ -110,6 +116,13 @@ p {color:white;}
     border-top: 1px solid #99CCFF;
 
 }
+.gals2{text-align: center;
+    color:rgb(221, 197, 63);
+    margin-top: 4px;
+    border-top: 1px solid #99CCFF;
+    font-size: small;
+  }
+
 .side-border{border: 1px solid white;}
 .lift{margin-top: -40px;}
 .picin {
